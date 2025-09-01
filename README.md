@@ -1,3 +1,1 @@
-# ToPu_ProjectExport
-アップデート予定
-外部blendファイルのプロジェクト書き出しに対応
+# ToPu_ProjectExporter
